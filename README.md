@@ -1,6 +1,6 @@
 # Interpretador de Linha de Comando (Shell)
 
-Trabalho individual desenvolvido para a disciplina de Sistemas Operacionais. O objetivo do programa e simular uma shell Unix simples em C++ que recebe entradas do usuario e executa comandos internos.
+O objetivo do programa e simular uma shell Unix simples em C++ que recebe entradas do usuario e executa comandos internos.
 
 ## Comandos Implementados
 
